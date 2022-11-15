@@ -11,9 +11,9 @@ OCR Application on Android
 
 Примеры:
 ==========  
-![меню](media/photo_menujpg.jpg)
-![Пример изображения](media/photo_example.jpg)
-![Вывод](media/photo_output.jpg)
+![меню](https://github.com/elmanoveu/android_ocr_app/blob/main/media/photo_menujpg.jpg)
+![Пример изображения](https://github.com/elmanoveu/android_ocr_app/blob/main/media/photo_example.jpg)
+![Вывод](https://github.com/elmanoveu/android_ocr_app/blob/main/media/photo_output.jpg)
 
 TODO:
 ========== 
